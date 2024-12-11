@@ -1,0 +1,9 @@
+dgl==1.1.0
+dgllife==0.3.0
+torch==2.0.1
+numpy==1.23.5
+scikit-learn==1.2.2
+rdkit-pypi==2023.3.1
+fastapi==0.103.2
+uvicorn==0.22.0
+pandas==2.0.3
